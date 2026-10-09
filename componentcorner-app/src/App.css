@@ -1,0 +1,25 @@
+.app {
+  min-height: 100vh;
+  background-color: #f8f5f0;
+  padding: 40px;
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+/* Brand title */
+.app h1 {
+  color: #3d3328;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  margin-bottom: 40px;
+}
+
+/* Product card layout */
+.product-container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}

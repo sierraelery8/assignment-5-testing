@@ -1,0 +1,20 @@
+footer {
+  background-color: #3d3328;
+  color: #f8f5f0;
+  text-align: center;
+  padding: 45px 20px;
+  margin-top: 50px;
+}
+
+footer h3 {
+  font-family: Georgia, serif;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+}
+
+footer p {
+  font-family: Arial, sans-serif;
+  margin: 8px 0;
+  font-size: 1rem;
+}

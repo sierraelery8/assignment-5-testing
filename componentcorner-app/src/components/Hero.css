@@ -1,0 +1,27 @@
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #eee7dd;
+}
+
+.hero h2 {
+  font-family: Georgia, serif;
+  font-size: 2.5rem;
+  color: #3d3328;
+  margin-bottom: 15px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #6b5b4a;
+  margin-bottom: 25px;
+}
+
+.hero button {
+  padding: 12px 30px;
+  border: none;
+  background-color: #3d3328;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}
